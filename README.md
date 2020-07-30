@@ -15,3 +15,5 @@ module.exports = {
 
 
 If you have problem, feel free to ask me ^^ 
+
+![alt text](https://github.com/comradesurendra/react-chat-app/blob/master/doc/ChatApp%20Architec.PNG)
