@@ -7,7 +7,7 @@ To use this application,
     and include the mongodb info like this 
 
 module.exports = {
-  mongoURI: "mongodb+srv://<username>:<password>@cluster0.qbnwy.mongodb.net/<dbname>retryWrites=true&w=majority",
+  mongoURI: "mongodb+srv://username:password@cluster0.qbnwy.mongodb.net/dbname retryWrites=true&w=majority",
 }
 
 2. put mongoDB info into dev.js file 
