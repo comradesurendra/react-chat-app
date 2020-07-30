@@ -13,7 +13,7 @@ function ChatCard(props) {
                     />
                 }
                 content={
-                    props.message.substring(0, 14) === "uploads/" ?
+                    props.message.substring(0, 8) === "uploads/" ?
                         // this will be either video or image 
 
                         props.message.substring(props.message.length - 3, props.message.length) === 'mp4' ?
